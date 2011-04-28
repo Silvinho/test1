@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  mobID: 1
+  longline: MyString
+
+two:
+  mobID: 1
+  longline: MyString
